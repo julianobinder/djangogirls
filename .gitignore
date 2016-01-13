@@ -49,8 +49,10 @@ coverage.xml
 *,cover
 
 # Translations
+
 # *.mo
 # *.pot
+
 
 # Django stuff:
 *.log
@@ -60,4 +62,3 @@ docs/_build/
 
 # PyBuilder
 target/
-
